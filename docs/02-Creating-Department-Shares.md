@@ -7,9 +7,9 @@ This section covers the creation of department-based shared folders on the Windo
 ## Folder Structure
 
 The file server was organized using the following structure:
-├── HR
-├── Finance
-├── IT
+├── HR  
+├── Finance  
+├── IT  
 └── Public
 
 
