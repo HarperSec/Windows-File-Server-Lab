@@ -40,11 +40,11 @@ Steps completed:
 
 ### Department Folder Structure
 
-![Department Folders](../screenshots/01-department-folders.png)
+[![Department Folders](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/01-Department%20Folders.png)
 
 ### Folder Sharing Configuration
 
-![Folder Sharing](../screenshots/02-folder-sharing.png)
+[![Folder Sharing](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/02-Folder%20Sharing.png)
 
 ## Summary
 
