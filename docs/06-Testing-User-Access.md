@@ -40,7 +40,7 @@ The following steps were completed for each test account:
 
 ### Access Denied
 
-[![Acess Denied](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/10-Access%20Denied.png)
+[![Access Denied](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/10-Access%20Denied.png)
 
 ## Summary
 
