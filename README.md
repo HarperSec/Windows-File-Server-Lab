@@ -53,5 +53,4 @@ docs/
 ├── 05-Configuring-Share-Permissions.md
 ├── 06-Testing-User-Access.md
 ├── 07-Troubleshooting.md
-└── 08-Lessons-Learned.md
 
