@@ -32,15 +32,10 @@ The following steps were completed for each test account:
 4. Verified access was denied to unauthorized department shares.
 5. Confirmed access to the Public share.
 
-## Screenshots
+![Access Successesful](../screenshots/09-HR%20Access%20Sucessful.png)
+![Access Denied](../screenshots/10-Access%20Denied.png)
 
-### Successful Department Access
 
-[![Access Successful](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/09-HR%20Access%20Sucessful.png) 
-
-### Access Denied
-
-[![Access Denied](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/10-Access%20Denied.png)
 
 ## Summary
 
