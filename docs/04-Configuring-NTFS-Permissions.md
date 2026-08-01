@@ -26,6 +26,9 @@ The following permissions were assigned:
 | IT | GG-IT-Users | Modify |  
 | Public | GG-All-Employees | Modify |  
 
+![HR Perms](../screenshots/06-HR%20NTFS%20Permissions.png)
+![Finance Perms](../screenshots/05-Finance%20NTFS%20Permissions.png)
+
 ## Configuration Steps
 
 1. Opened folder properties
@@ -34,15 +37,6 @@ The following permissions were assigned:
 4. Assigned appropriate NTFS permissions
 5. Verified permissions were applied
 
-## Screenshots
-
-### HR Folder Permissions
-
-[![HR NTFS Permissions](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/06-HR%20NTFS%20Permissions.png)
-
-### Finance Folder Permissions
-
-[![Finance NTFS Permissions](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/05-Finance%20NTFS%20Permissions.png)
 
 ## Summary
 
