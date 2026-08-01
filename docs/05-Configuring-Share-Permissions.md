@@ -25,6 +25,10 @@ The following steps were completed for each department share:
 5. Opened **Permissions**.
 6. Confirmed the **Everyone** group had **Full Control**.
 
+![Advanced](../screenshots/07-Advanced%20Sharing.png)
+![Share](../screenshots/08-Share%20Permissions.png)
+
+
 ## Share Configuration
 
 | Shared Folder | Share Permission        |
@@ -34,15 +38,6 @@ The following steps were completed for each department share:
 | IT            | Everyone – Full Control |
 | Public        | Everyone – Full Control |
 
-## Screenshots
-
-### HR Share Permissions
-
-[![Shared Permissions](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/08-Share%20Permissions.png)
-
-### Advanced Sharing
-
-[![Advanced Sharing](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/07-Advanced%20Sharing.png)
 
 ## Summary
 
