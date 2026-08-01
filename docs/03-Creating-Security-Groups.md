@@ -23,6 +23,8 @@ The following security groups were created:
 | GG-IT-Users | Access to IT resources |  
 | GG-All-Employees | Access to public resources |  
 
+![Security Groups](../screenshots/04-Security%20Groups.png)
+
 ## Creating Security Groups
 
 Steps completed:
@@ -33,15 +35,8 @@ Steps completed:
 4. Configured groups as Global Security Groups
 5. Added test users to appropriate groups
 
-## Screenshots
+![Group Members](../screenshots/03-Group%20Members.png)
 
-### Security Groups
-
-[![Security Groups](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/04-Security%20Groups.png)
-
-### Group Membership
-
-[![Group Members](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/Group%20Members.png)
 
 ## Summary
 
