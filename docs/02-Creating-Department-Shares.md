@@ -24,6 +24,8 @@ The following department folders were created:
 
 These folders represent separate storage locations for different organizational departments.
 
+![Department Folders](../screenshots/01-Department%20Folders.png)
+
 ## Configuring Folder Sharing
 
 Each department folder was configured as a network share.
@@ -36,15 +38,8 @@ Steps completed:
 4. Enabled folder sharing
 5. Configured initial sharing permissions
 
-## Screenshots
-
-### Department Folder Structure
-
-[![Department Folders](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/01-Department%20Folders.png)
-
-### Folder Sharing Configuration
-
-[![Folder Sharing](path/to/image.png)](https://github.com/HarperSec/Windows-File-Server-Lab/blob/main/screenshots/02-Folder%20Sharing.png)
+![Folder Sharing](../screenshots/02-Folder%20Sharing.png)
+ 
 
 ## Summary
 
